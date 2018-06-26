@@ -28,3 +28,7 @@ efficiency, resource utilization and
 scalability of the code.
 - We1ll also evaluate it to gauge your understanding of best practices, design patterns and coding style.
 - Use components from latest android versions to showcase your knowledge about Android.
+
+
+-----------------------------Feedback-----------------------------------------------------------------
+You code was functional. If I were to compare your code with what other candidates have submitted…. It would have been nice to see code architected using latest from architecture components. Naming scheme for classes was little confusing.
